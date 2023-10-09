@@ -1,0 +1,917 @@
+[
+      {
+            "name": "new_n72_",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n63_",
+            "nodes": 21,
+            "edges": 38,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n64_",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n65_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n71_",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n66_",
+            "nodes": 19,
+            "edges": 34,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n140_",
+            "nodes": 13,
+            "edges": 22,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n68_",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n78_",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n69_",
+            "nodes": 13,
+            "edges": 22,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n74_",
+            "nodes": 19,
+            "edges": 34,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n70_",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n77_",
+            "nodes": 19,
+            "edges": 34,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n79_",
+            "nodes": 7,
+            "edges": 10,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n73_",
+            "nodes": 8,
+            "edges": 12,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n126_",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n76_",
+            "nodes": 8,
+            "edges": 12,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n94_",
+            "nodes": 8,
+            "edges": 12,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n62_",
+            "nodes": 12,
+            "edges": 20,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n82_",
+            "nodes": 12,
+            "edges": 20,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n89_",
+            "nodes": 12,
+            "edges": 20,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n92_",
+            "nodes": 12,
+            "edges": 20,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n115_",
+            "nodes": 8,
+            "edges": 12,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n116_",
+            "nodes": 8,
+            "edges": 12,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n124_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n128_",
+            "nodes": 20,
+            "edges": 36,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n96_",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n97_",
+            "nodes": 8,
+            "edges": 12,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n118_",
+            "nodes": 22,
+            "edges": 40,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n67_",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n101_",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n108_",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n117_",
+            "nodes": 8,
+            "edges": 12,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n125_",
+            "nodes": 13,
+            "edges": 22,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n130_",
+            "nodes": 13,
+            "edges": 22,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n131_",
+            "nodes": 13,
+            "edges": 22,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n75_",
+            "nodes": 13,
+            "edges": 22,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n83_",
+            "nodes": 13,
+            "edges": 22,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n86_",
+            "nodes": 13,
+            "edges": 22,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n93_",
+            "nodes": 13,
+            "edges": 22,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n99_",
+            "nodes": 13,
+            "edges": 22,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n111_",
+            "nodes": 13,
+            "edges": 22,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G45",
+            "nodes": 13,
+            "edges": 22,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n139_",
+            "nodes": 8,
+            "edges": 12,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G24",
+            "nodes": 13,
+            "edges": 22,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n122_",
+            "nodes": 10,
+            "edges": 16,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n114_",
+            "nodes": 8,
+            "edges": 12,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n123_",
+            "nodes": 10,
+            "edges": 16,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n127_",
+            "nodes": 11,
+            "edges": 18,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n129_",
+            "nodes": 11,
+            "edges": 18,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n61_",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n88_",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G21",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n81_",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G15",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n85_",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G18",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n119_",
+            "nodes": 12,
+            "edges": 20,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n91_",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G36",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G48",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n106_",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G33",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G42",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n120_",
+            "nodes": 12,
+            "edges": 20,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G39",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n121_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G3",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G12",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G6",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G9",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G69",
+            "nodes": 19,
+            "edges": 34,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G30",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G27",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G75",
+            "nodes": 10,
+            "edges": 16,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G51",
+            "nodes": 14,
+            "edges": 24,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G54",
+            "nodes": 14,
+            "edges": 24,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G60",
+            "nodes": 14,
+            "edges": 24,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G63",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G66",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G72",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G57",
+            "nodes": 14,
+            "edges": 24,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "klutparser": {
+                  "total_time": 187.42351770401
+            }
+      },
+      {
+            "patterns": [
+                  {
+                        "hash": "9cb5538ee75163054fc2701486e1c8c0",
+                        "nr_bdds": 4,
+                        "nodes": 5,
+                        "edges": 6
+                  },
+                  {
+                        "hash": "cbf57850da4ad575c4228fe5a01c87f6",
+                        "nr_bdds": 1,
+                        "nodes": 21,
+                        "edges": 38
+                  },
+                  {
+                        "hash": "7a6f2d8482f2fa6c02f2b44f1109de12",
+                        "nr_bdds": 9,
+                        "nodes": 9,
+                        "edges": 14
+                  },
+                  {
+                        "hash": "421708be23e7eafc8a291d9efd53100a",
+                        "nr_bdds": 2,
+                        "nodes": 19,
+                        "edges": 34
+                  },
+                  {
+                        "hash": "6f53425869bfed77e17e9fb68eb1e9d9",
+                        "nr_bdds": 1,
+                        "nodes": 13,
+                        "edges": 22
+                  },
+                  {
+                        "hash": "3c85a1936d5f6d154a1deeb37458739f",
+                        "nr_bdds": 1,
+                        "nodes": 17,
+                        "edges": 30
+                  },
+                  {
+                        "hash": "036c3cb1134f0d3b23a2a6cbdcdbc701",
+                        "nr_bdds": 1,
+                        "nodes": 13,
+                        "edges": 22
+                  },
+                  {
+                        "hash": "03bb4ed733306e50a15acac1786538b4",
+                        "nr_bdds": 1,
+                        "nodes": 17,
+                        "edges": 30
+                  },
+                  {
+                        "hash": "de39b9a6505eef75491fa3e189aafec5",
+                        "nr_bdds": 1,
+                        "nodes": 19,
+                        "edges": 34
+                  },
+                  {
+                        "hash": "c61b6545053af55d109bb6f787cf3157",
+                        "nr_bdds": 1,
+                        "nodes": 7,
+                        "edges": 10
+                  },
+                  {
+                        "hash": "85f0f80c418db2d221f73d1110539166",
+                        "nr_bdds": 1,
+                        "nodes": 8,
+                        "edges": 12
+                  },
+                  {
+                        "hash": "0786a4b7b6e7e9aa4fd2d348958211f2",
+                        "nr_bdds": 1,
+                        "nodes": 6,
+                        "edges": 8
+                  },
+                  {
+                        "hash": "0635933291aa012dcc7015a9b9a812fb",
+                        "nr_bdds": 2,
+                        "nodes": 8,
+                        "edges": 12
+                  },
+                  {
+                        "hash": "6355c090cd352afb25e4376cc15ad0a4",
+                        "nr_bdds": 4,
+                        "nodes": 12,
+                        "edges": 20
+                  },
+                  {
+                        "hash": "2748135a61f88c8fc7cbadda8db0fb0c",
+                        "nr_bdds": 4,
+                        "nodes": 8,
+                        "edges": 12
+                  },
+                  {
+                        "hash": "153057baa97d7e90e221b4de3c7cd915",
+                        "nr_bdds": 1,
+                        "nodes": 9,
+                        "edges": 14
+                  },
+                  {
+                        "hash": "0b258401d918334e8aa1bd26c65f5a21",
+                        "nr_bdds": 1,
+                        "nodes": 20,
+                        "edges": 36
+                  },
+                  {
+                        "hash": "bac57e7cb0e258e6966d1678a7092d65",
+                        "nr_bdds": 1,
+                        "nodes": 6,
+                        "edges": 8
+                  },
+                  {
+                        "hash": "ea610a9c2fea716dbbcc220754f4e9f7",
+                        "nr_bdds": 1,
+                        "nodes": 22,
+                        "edges": 40
+                  },
+                  {
+                        "hash": "5b7e0d35debded82021af2649fbef4d1",
+                        "nr_bdds": 3,
+                        "nodes": 17,
+                        "edges": 30
+                  },
+                  {
+                        "hash": "696dd70dcd2e704fc1aa73f1c57f924e",
+                        "nr_bdds": 3,
+                        "nodes": 13,
+                        "edges": 22
+                  },
+                  {
+                        "hash": "b87311300fc95109233fbb653b20ad9d",
+                        "nr_bdds": 6,
+                        "nodes": 13,
+                        "edges": 22
+                  },
+                  {
+                        "hash": "f7c0896083271d3b263b3dcb86b57691",
+                        "nr_bdds": 2,
+                        "nodes": 13,
+                        "edges": 22
+                  },
+                  {
+                        "hash": "afcf22b70e481b6305693a50d37e4821",
+                        "nr_bdds": 1,
+                        "nodes": 8,
+                        "edges": 12
+                  },
+                  {
+                        "hash": "141cf50dfb435c01d708c5aabe11b1fa",
+                        "nr_bdds": 1,
+                        "nodes": 10,
+                        "edges": 16
+                  },
+                  {
+                        "hash": "9bcdbc07a8555957feb6b0a5b3297beb",
+                        "nr_bdds": 1,
+                        "nodes": 8,
+                        "edges": 12
+                  },
+                  {
+                        "hash": "ceb9f13e102f19d35e8528750f906c4d",
+                        "nr_bdds": 1,
+                        "nodes": 10,
+                        "edges": 16
+                  },
+                  {
+                        "hash": "ff658424bf0d3ba01b859d57a0015d7a",
+                        "nr_bdds": 1,
+                        "nodes": 11,
+                        "edges": 18
+                  },
+                  {
+                        "hash": "f7d8d0f108fdf1c459858612cb277f83",
+                        "nr_bdds": 1,
+                        "nodes": 11,
+                        "edges": 18
+                  },
+                  {
+                        "hash": "4b8c2cfb0c6f53666a623b1146239137",
+                        "nr_bdds": 6,
+                        "nodes": 5,
+                        "edges": 6
+                  },
+                  {
+                        "hash": "cc473a55b6ae8bcda6cc91021097b1df",
+                        "nr_bdds": 1,
+                        "nodes": 12,
+                        "edges": 20
+                  },
+                  {
+                        "hash": "e85aa8cfe58274dd198a216d0cbf9af7",
+                        "nr_bdds": 1,
+                        "nodes": 12,
+                        "edges": 20
+                  },
+                  {
+                        "hash": "e4a739cb47cf7af7c2154f37efc7f8ea",
+                        "nr_bdds": 1,
+                        "nodes": 9,
+                        "edges": 14
+                  },
+                  {
+                        "hash": "9822a24b511f3933f5d70afca4f08599",
+                        "nr_bdds": 6,
+                        "nodes": 5,
+                        "edges": 6
+                  },
+                  {
+                        "hash": "963811a29c3f9b9ac6de57a6daa70f0f",
+                        "nr_bdds": 1,
+                        "nodes": 19,
+                        "edges": 34
+                  },
+                  {
+                        "hash": "bdcb46b9df55c96652fd043ecedb98e3",
+                        "nr_bdds": 1,
+                        "nodes": 10,
+                        "edges": 16
+                  },
+                  {
+                        "hash": "d400a1a46abef83dc0176180cbc7a052",
+                        "nr_bdds": 4,
+                        "nodes": 14,
+                        "edges": 24
+                  },
+                  {
+                        "hash": "bc8c8173721cb4d8b8e0d5d3e91d0aa0",
+                        "nr_bdds": 2,
+                        "nodes": 17,
+                        "edges": 30
+                  },
+                  {
+                        "hash": "dd79ca88ae8f071cd88387722d31a703",
+                        "nr_bdds": 1,
+                        "nodes": 15,
+                        "edges": 26
+                  }
+            ],
+            "before": {
+                  "rows": 892,
+                  "cols": 1456,
+                  "semi": 2348,
+                  "area": 1298752,
+                  "cycles": 5,
+                  "total_time": 0.018829345703125
+            },
+            "after": {
+                  "rows": 471,
+                  "cols": 786,
+                  "semi": 1257,
+                  "area": 370206,
+                  "cycles": 25,
+                  "total_time": 0.00024771690368652344
+            }
+      }
+]

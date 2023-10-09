@@ -1,0 +1,418 @@
+[
+      {
+            "name": "G864gat",
+            "nodes": 235,
+            "edges": 466,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G879gat",
+            "nodes": 1081,
+            "edges": 2158,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G865gat",
+            "nodes": 177,
+            "edges": 350,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G390gat",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G388gat",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G418gat",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G420gat",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G446gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G423gat",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G422gat",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G450gat",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G419gat",
+            "nodes": 10,
+            "edges": 16,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G866gat",
+            "nodes": 703,
+            "edges": 1402,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G421gat",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G874gat",
+            "nodes": 660,
+            "edges": 1316,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G863gat",
+            "nodes": 299,
+            "edges": 594,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G878gat",
+            "nodes": 1650,
+            "edges": 3296,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G391gat",
+            "nodes": 4,
+            "edges": 4,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G850gat",
+            "nodes": 130,
+            "edges": 256,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G447gat",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G767gat",
+            "nodes": 21,
+            "edges": 38,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G449gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G768gat",
+            "nodes": 21,
+            "edges": 38,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G448gat",
+            "nodes": 8,
+            "edges": 12,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G880gat",
+            "nodes": 708,
+            "edges": 1412,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G389gat",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G850gat",
+            "nodes": 129,
+            "edges": 252,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G422gat",
+            "nodes": 4,
+            "edges": 5,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G419gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G423gat",
+            "nodes": 4,
+            "edges": 4,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G450gat",
+            "nodes": 4,
+            "edges": 4,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G391gat",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G449gat",
+            "nodes": 8,
+            "edges": 7,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G865gat",
+            "nodes": 176,
+            "edges": 345,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G389gat",
+            "nodes": 4,
+            "edges": 3,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G879gat",
+            "nodes": 1080,
+            "edges": 2120,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G866gat",
+            "nodes": 702,
+            "edges": 1298,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G768gat",
+            "nodes": 20,
+            "edges": 36,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G880gat",
+            "nodes": 707,
+            "edges": 1398,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G767gat",
+            "nodes": 20,
+            "edges": 36,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G447gat",
+            "nodes": 4,
+            "edges": 3,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G446gat",
+            "nodes": 8,
+            "edges": 13,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G448gat",
+            "nodes": 7,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G863gat",
+            "nodes": 298,
+            "edges": 584,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G864gat",
+            "nodes": 234,
+            "edges": 459,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G418gat",
+            "nodes": 5,
+            "edges": 4,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G388gat",
+            "nodes": 4,
+            "edges": 3,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G390gat",
+            "nodes": 4,
+            "edges": 3,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G878gat",
+            "nodes": 1649,
+            "edges": 3244,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G420gat",
+            "nodes": 4,
+            "edges": 5,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G874gat",
+            "nodes": 659,
+            "edges": 1298,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G421gat",
+            "nodes": 4,
+            "edges": 5,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      }
+]

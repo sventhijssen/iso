@@ -1,0 +1,1730 @@
+[
+      {
+            "name": "G436",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G522",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G270",
+            "nodes": 836,
+            "edges": 1668,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G284",
+            "nodes": 4,
+            "edges": 4,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G438",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G279",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G494",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G295",
+            "nodes": 515,
+            "edges": 1026,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G324",
+            "nodes": 919,
+            "edges": 1834,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G540",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G484",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G365",
+            "nodes": 154,
+            "edges": 304,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G301",
+            "nodes": 585,
+            "edges": 1166,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G330",
+            "nodes": 1016,
+            "edges": 2028,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G416",
+            "nodes": 211,
+            "edges": 418,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G347",
+            "nodes": 372,
+            "edges": 740,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G446",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G442",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G536",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G478",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G408",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G542",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G488",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G258",
+            "nodes": 994,
+            "edges": 1984,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G552",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G410",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G273",
+            "nodes": 836,
+            "edges": 1668,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G448",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G550",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G471",
+            "nodes": 965,
+            "edges": 1926,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G422",
+            "nodes": 1041,
+            "edges": 2078,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G469",
+            "nodes": 1041,
+            "edges": 2078,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G3",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G338",
+            "nodes": 1920,
+            "edges": 3836,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G554",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G558",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G321",
+            "nodes": 1713,
+            "edges": 3422,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G546",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G336",
+            "nodes": 979,
+            "edges": 1954,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G341",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G278",
+            "nodes": 4,
+            "edges": 4,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G496",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G313",
+            "nodes": 394,
+            "edges": 784,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G333",
+            "nodes": 1013,
+            "edges": 2022,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G453",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G370",
+            "nodes": 2330,
+            "edges": 4656,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G526",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G399",
+            "nodes": 166,
+            "edges": 328,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G480",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G391",
+            "nodes": 31,
+            "edges": 58,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G359",
+            "nodes": 259,
+            "edges": 514,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G560",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G490",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G524",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G444",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G319",
+            "nodes": 342,
+            "edges": 680,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G394",
+            "nodes": 35,
+            "edges": 66,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G534",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G397",
+            "nodes": 18,
+            "edges": 32,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G548",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G530",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G264",
+            "nodes": 994,
+            "edges": 1984,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G412",
+            "nodes": 230,
+            "edges": 456,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G492",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G356",
+            "nodes": 226,
+            "edges": 448,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G376",
+            "nodes": 65,
+            "edges": 126,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G286",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G402",
+            "nodes": 4,
+            "edges": 4,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G307",
+            "nodes": 539,
+            "edges": 1074,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G414",
+            "nodes": 339,
+            "edges": 674,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G298",
+            "nodes": 613,
+            "edges": 1222,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G310",
+            "nodes": 516,
+            "edges": 1028,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G528",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G418",
+            "nodes": 4251,
+            "edges": 8498,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G432",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G246",
+            "nodes": 836,
+            "edges": 1668,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G482",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G304",
+            "nodes": 562,
+            "edges": 1120,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G276",
+            "nodes": 836,
+            "edges": 1668,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G281",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G2",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G327",
+            "nodes": 1049,
+            "edges": 2094,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G404",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G385",
+            "nodes": 45,
+            "edges": 86,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G252",
+            "nodes": 350,
+            "edges": 696,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G379",
+            "nodes": 55,
+            "edges": 106,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G440",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G532",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G292",
+            "nodes": 5,
+            "edges": 6,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G362",
+            "nodes": 206,
+            "edges": 408,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G556",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G450",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G373",
+            "nodes": 8,
+            "edges": 12,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G350",
+            "nodes": 427,
+            "edges": 850,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G486",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G339",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G249",
+            "nodes": 994,
+            "edges": 1984,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G419",
+            "nodes": 965,
+            "edges": 1926,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G544",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G289",
+            "nodes": 4,
+            "edges": 4,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G406",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G353",
+            "nodes": 281,
+            "edges": 558,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G538",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G344",
+            "nodes": 129,
+            "edges": 254,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G316",
+            "nodes": 367,
+            "edges": 730,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G388",
+            "nodes": 37,
+            "edges": 70,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G368",
+            "nodes": 141,
+            "edges": 278,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G382",
+            "nodes": 49,
+            "edges": 94,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G327",
+            "nodes": 1048,
+            "edges": 1989,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G432",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G298",
+            "nodes": 612,
+            "edges": 1210,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G538",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G402",
+            "nodes": 3,
+            "edges": 3,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G416",
+            "nodes": 210,
+            "edges": 414,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G321",
+            "nodes": 1712,
+            "edges": 3410,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G252",
+            "nodes": 349,
+            "edges": 649,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G558",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G319",
+            "nodes": 341,
+            "edges": 666,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G530",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G301",
+            "nodes": 584,
+            "edges": 1154,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G556",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G339",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G438",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G333",
+            "nodes": 1012,
+            "edges": 1891,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G490",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G356",
+            "nodes": 225,
+            "edges": 434,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G368",
+            "nodes": 140,
+            "edges": 264,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G496",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G382",
+            "nodes": 48,
+            "edges": 92,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G404",
+            "nodes": 5,
+            "edges": 7,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G444",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G522",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G494",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G310",
+            "nodes": 515,
+            "edges": 1016,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G362",
+            "nodes": 205,
+            "edges": 380,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G313",
+            "nodes": 393,
+            "edges": 772,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G324",
+            "nodes": 918,
+            "edges": 1731,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G373",
+            "nodes": 7,
+            "edges": 10,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G249",
+            "nodes": 993,
+            "edges": 1949,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G353",
+            "nodes": 280,
+            "edges": 532,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G388",
+            "nodes": 36,
+            "edges": 68,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G341",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G552",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G488",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G3",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G440",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G534",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G273",
+            "nodes": 835,
+            "edges": 1602,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G528",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G330",
+            "nodes": 1015,
+            "edges": 1923,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G469",
+            "nodes": 1040,
+            "edges": 1952,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G408",
+            "nodes": 5,
+            "edges": 7,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G246",
+            "nodes": 835,
+            "edges": 1602,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G344",
+            "nodes": 128,
+            "edges": 244,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G548",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G422",
+            "nodes": 1040,
+            "edges": 1952,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G550",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G350",
+            "nodes": 426,
+            "edges": 798,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G471",
+            "nodes": 964,
+            "edges": 1838,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G336",
+            "nodes": 978,
+            "edges": 1825,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G480",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G307",
+            "nodes": 538,
+            "edges": 1062,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G279",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G532",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G270",
+            "nodes": 835,
+            "edges": 1602,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G379",
+            "nodes": 54,
+            "edges": 104,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G560",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G289",
+            "nodes": 3,
+            "edges": 3,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G482",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G338",
+            "nodes": 1919,
+            "edges": 3709,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G286",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G394",
+            "nodes": 34,
+            "edges": 58,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G258",
+            "nodes": 993,
+            "edges": 1949,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G406",
+            "nodes": 5,
+            "edges": 7,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G412",
+            "nodes": 229,
+            "edges": 452,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G492",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G536",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G284",
+            "nodes": 3,
+            "edges": 3,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G370",
+            "nodes": 2329,
+            "edges": 4618,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G419",
+            "nodes": 964,
+            "edges": 1838,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G526",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G278",
+            "nodes": 3,
+            "edges": 2,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G304",
+            "nodes": 561,
+            "edges": 1108,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G542",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G448",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G347",
+            "nodes": 371,
+            "edges": 686,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G359",
+            "nodes": 258,
+            "edges": 466,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G414",
+            "nodes": 338,
+            "edges": 670,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G376",
+            "nodes": 64,
+            "edges": 122,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G385",
+            "nodes": 44,
+            "edges": 82,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G410",
+            "nodes": 5,
+            "edges": 7,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G546",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G276",
+            "nodes": 835,
+            "edges": 1602,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G2",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G418",
+            "nodes": 4250,
+            "edges": 8497,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G316",
+            "nodes": 366,
+            "edges": 718,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G442",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G397",
+            "nodes": 17,
+            "edges": 28,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G486",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G264",
+            "nodes": 993,
+            "edges": 1949,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G478",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G436",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G554",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G399",
+            "nodes": 165,
+            "edges": 324,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G292",
+            "nodes": 4,
+            "edges": 5,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G544",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G391",
+            "nodes": 30,
+            "edges": 56,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G450",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G281",
+            "nodes": 4,
+            "edges": 5,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G524",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G540",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G453",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G295",
+            "nodes": 514,
+            "edges": 946,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G484",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G446",
+            "nodes": 2,
+            "edges": 1,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G365",
+            "nodes": 153,
+            "edges": 292,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      }
+]

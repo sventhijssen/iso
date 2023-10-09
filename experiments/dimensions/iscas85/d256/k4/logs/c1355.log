@@ -1,0 +1,1102 @@
+[
+      {
+            "name": "new_n78_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n79_",
+            "nodes": 4,
+            "edges": 4,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n80_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n81_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n83_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n84_",
+            "nodes": 4,
+            "edges": 4,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n85_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n87_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n88_",
+            "nodes": 4,
+            "edges": 4,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n95_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n100_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n108_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n89_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n105_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n97_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n98_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n102_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n91_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n103_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n92_",
+            "nodes": 4,
+            "edges": 4,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n96_",
+            "nodes": 4,
+            "edges": 4,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n101_",
+            "nodes": 4,
+            "edges": 4,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n106_",
+            "nodes": 4,
+            "edges": 4,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n109_",
+            "nodes": 4,
+            "edges": 4,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n77_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n82_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n86_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n90_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n94_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n99_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n104_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n107_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n76_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n130_",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n135_",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n140_",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n145_",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n93_",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n114_",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n119_",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n124_",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n129_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1324gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1325gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1326gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1327gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1328gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1329gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1330gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1331gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1332gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1333gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1334gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1335gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1336gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1337gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1338gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1339gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1340gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1341gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1342gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1343gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1344gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1345gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1346gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1347gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1348gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1349gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1350gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1351gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1352gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1353gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1354gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G1355gat",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "klutparser": {
+                  "total_time": 168.87853837013245
+            }
+      },
+      {
+            "patterns": [
+                  {
+                        "hash": "a5d842cf76d1112fa025602764872564",
+                        "nr_bdds": 24,
+                        "nodes": 9,
+                        "edges": 14
+                  },
+                  {
+                        "hash": "9b4be5d748a292e481722f1ef8f75020",
+                        "nr_bdds": 8,
+                        "nodes": 4,
+                        "edges": 4
+                  },
+                  {
+                        "hash": "647ff337cd492473f2283c3d4b414880",
+                        "nr_bdds": 2,
+                        "nodes": 9,
+                        "edges": 14
+                  },
+                  {
+                        "hash": "e8b84f9a6048973ee83f697d1702109b",
+                        "nr_bdds": 8,
+                        "nodes": 6,
+                        "edges": 8
+                  },
+                  {
+                        "hash": "7a6f2d8482f2fa6c02f2b44f1109de12",
+                        "nr_bdds": 32,
+                        "nodes": 9,
+                        "edges": 14
+                  }
+            ],
+            "before": {
+                  "rows": 602,
+                  "cols": 908,
+                  "semi": 1510,
+                  "area": 546616,
+                  "cycles": 5,
+                  "total_time": 0.013634681701660156
+            },
+            "after": {
+                  "rows": 37,
+                  "cols": 54,
+                  "semi": 91,
+                  "area": 1998,
+                  "cycles": 65,
+                  "total_time": 0.0006110668182373047
+            }
+      },
+      {
+            "cycles": {
+                  "cycles": [
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              },
+                              {
+                                    "type": "LOAD",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              },
+                              {
+                                    "type": "LOAD",
+                                    "hash": "e8b84f9a6048973ee83f697d1702109b"
+                              },
+                              {
+                                    "type": "LOAD",
+                                    "hash": "9b4be5d748a292e481722f1ef8f75020"
+                              },
+                              {
+                                    "type": "LOAD",
+                                    "hash": "647ff337cd492473f2283c3d4b414880"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              },
+                              {
+                                    "type": "EVAL",
+                                    "hash": "9b4be5d748a292e481722f1ef8f75020"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              },
+                              {
+                                    "type": "EVAL",
+                                    "hash": "9b4be5d748a292e481722f1ef8f75020"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              },
+                              {
+                                    "type": "EVAL",
+                                    "hash": "9b4be5d748a292e481722f1ef8f75020"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              },
+                              {
+                                    "type": "EVAL",
+                                    "hash": "9b4be5d748a292e481722f1ef8f75020"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              },
+                              {
+                                    "type": "EVAL",
+                                    "hash": "9b4be5d748a292e481722f1ef8f75020"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              },
+                              {
+                                    "type": "EVAL",
+                                    "hash": "9b4be5d748a292e481722f1ef8f75020"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              },
+                              {
+                                    "type": "EVAL",
+                                    "hash": "9b4be5d748a292e481722f1ef8f75020"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              },
+                              {
+                                    "type": "EVAL",
+                                    "hash": "9b4be5d748a292e481722f1ef8f75020"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "e8b84f9a6048973ee83f697d1702109b"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "e8b84f9a6048973ee83f697d1702109b"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "e8b84f9a6048973ee83f697d1702109b"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "e8b84f9a6048973ee83f697d1702109b"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "e8b84f9a6048973ee83f697d1702109b"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "e8b84f9a6048973ee83f697d1702109b"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "647ff337cd492473f2283c3d4b414880"
+                              },
+                              {
+                                    "type": "EVAL",
+                                    "hash": "e8b84f9a6048973ee83f697d1702109b"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "e8b84f9a6048973ee83f697d1702109b"
+                              },
+                              {
+                                    "type": "EVAL",
+                                    "hash": "647ff337cd492473f2283c3d4b414880"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "7a6f2d8482f2fa6c02f2b44f1109de12"
+                              }
+                        ]
+                  ],
+                  "total_time": 0.00032901763916015625
+            }
+      }
+]

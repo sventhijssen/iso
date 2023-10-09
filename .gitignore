@@ -1,0 +1,14 @@
+# Default ignored files
+/workspace.xml
+
+.idea/
+__pycache__/
+
+# Virtual environment
+venv/
+
+# ABC directory
+abc
+
+# Requirements
+!requirements.txt

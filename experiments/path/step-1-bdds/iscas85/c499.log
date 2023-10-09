@@ -1,0 +1,258 @@
+[
+      {
+            "name": "God0",
+            "nodes": 4325,
+            "edges": 8646,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God1",
+            "nodes": 4325,
+            "edges": 8646,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God2",
+            "nodes": 4301,
+            "edges": 8598,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God3",
+            "nodes": 4253,
+            "edges": 8502,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God4",
+            "nodes": 4325,
+            "edges": 8646,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God5",
+            "nodes": 4325,
+            "edges": 8646,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God6",
+            "nodes": 4301,
+            "edges": 8598,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God7",
+            "nodes": 4253,
+            "edges": 8502,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God8",
+            "nodes": 3965,
+            "edges": 7926,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God9",
+            "nodes": 3901,
+            "edges": 7798,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God10",
+            "nodes": 4157,
+            "edges": 8310,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God11",
+            "nodes": 3773,
+            "edges": 7542,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God12",
+            "nodes": 4093,
+            "edges": 8182,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God13",
+            "nodes": 4029,
+            "edges": 8054,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God14",
+            "nodes": 3837,
+            "edges": 7670,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God15",
+            "nodes": 4157,
+            "edges": 8310,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God16",
+            "nodes": 3581,
+            "edges": 7158,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God17",
+            "nodes": 3006,
+            "edges": 6008,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God18",
+            "nodes": 2494,
+            "edges": 4984,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God19",
+            "nodes": 2414,
+            "edges": 4824,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God20",
+            "nodes": 3581,
+            "edges": 7158,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God21",
+            "nodes": 3102,
+            "edges": 6200,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God22",
+            "nodes": 2574,
+            "edges": 5144,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God23",
+            "nodes": 2574,
+            "edges": 5144,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God24",
+            "nodes": 3453,
+            "edges": 6902,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God25",
+            "nodes": 2910,
+            "edges": 5816,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God26",
+            "nodes": 2310,
+            "edges": 4616,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God27",
+            "nodes": 2270,
+            "edges": 4536,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God28",
+            "nodes": 3325,
+            "edges": 6646,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God29",
+            "nodes": 2814,
+            "edges": 5624,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God30",
+            "nodes": 2200,
+            "edges": 4396,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God31",
+            "nodes": 2218,
+            "edges": 4432,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      }
+]

@@ -1,0 +1,10 @@
+[
+      {
+            "name": "c432.blif",
+            "nodes": 1291,
+            "edges": 2578,
+            "roots": 7,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      }
+]

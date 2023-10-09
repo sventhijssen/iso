@@ -1,0 +1,1158 @@
+[
+      {
+            "name": "new_n77_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n78_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n79_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n81_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n82_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n84_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n90_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n93_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n98_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n85_",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n88_",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n97_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n92_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n91_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n99_",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n87_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n94_",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n96_",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n76_",
+            "nodes": 10,
+            "edges": 16,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n80_",
+            "nodes": 10,
+            "edges": 16,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n83_",
+            "nodes": 8,
+            "edges": 12,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n120_",
+            "nodes": 24,
+            "edges": 44,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n121_",
+            "nodes": 10,
+            "edges": 16,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n105_",
+            "nodes": 8,
+            "edges": 12,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n86_",
+            "nodes": 8,
+            "edges": 12,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n119_",
+            "nodes": 24,
+            "edges": 44,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n131_",
+            "nodes": 24,
+            "edges": 44,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n89_",
+            "nodes": 24,
+            "edges": 44,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n110_",
+            "nodes": 24,
+            "edges": 44,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n122_",
+            "nodes": 8,
+            "edges": 12,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n95_",
+            "nodes": 24,
+            "edges": 44,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "new_n104_",
+            "nodes": 10,
+            "edges": 16,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God0",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God1",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God2",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God3",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God8",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God9",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God10",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God11",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God4",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God5",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God6",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God7",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God12",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God13",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God14",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God15",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God16",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God17",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God18",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God19",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God20",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God21",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God22",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God23",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God24",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God25",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God26",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God27",
+            "nodes": 15,
+            "edges": 26,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God28",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God29",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God30",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "God31",
+            "nodes": 17,
+            "edges": 30,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "klutparser": {
+                  "total_time": 146.38163709640503
+            }
+      },
+      {
+            "patterns": [
+                  {
+                        "hash": "a5d842cf76d1112fa025602764872564",
+                        "nr_bdds": 14,
+                        "nodes": 9,
+                        "edges": 14
+                  },
+                  {
+                        "hash": "03bb4ed733306e50a15acac1786538b4",
+                        "nr_bdds": 4,
+                        "nodes": 17,
+                        "edges": 30
+                  },
+                  {
+                        "hash": "71e7c1149e141c99f72aa164b51a25f0",
+                        "nr_bdds": 4,
+                        "nodes": 10,
+                        "edges": 16
+                  },
+                  {
+                        "hash": "85f0f80c418db2d221f73d1110539166",
+                        "nr_bdds": 4,
+                        "nodes": 8,
+                        "edges": 12
+                  },
+                  {
+                        "hash": "540cc51a6ff8cd5c3857baad709d9747",
+                        "nr_bdds": 6,
+                        "nodes": 24,
+                        "edges": 44
+                  },
+                  {
+                        "hash": "1f8b22273b4b23fab6b9b10e55433f02",
+                        "nr_bdds": 16,
+                        "nodes": 15,
+                        "edges": 26
+                  },
+                  {
+                        "hash": "d1a4e9741872481d1c2564eaaf6dac93",
+                        "nr_bdds": 16,
+                        "nodes": 17,
+                        "edges": 30
+                  }
+            ],
+            "before": {
+                  "rows": 922,
+                  "cols": 1588,
+                  "semi": 2510,
+                  "area": 1464136,
+                  "cycles": 4,
+                  "total_time": 0.016914844512939453
+            },
+            "after": {
+                  "rows": 100,
+                  "cols": 172,
+                  "semi": 272,
+                  "area": 17200,
+                  "cycles": 37,
+                  "total_time": 0.0002593994140625
+            }
+      },
+      {
+            "cycles": {
+                  "cycles": [
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "03bb4ed733306e50a15acac1786538b4"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "03bb4ed733306e50a15acac1786538b4"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "03bb4ed733306e50a15acac1786538b4"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "03bb4ed733306e50a15acac1786538b4"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "03bb4ed733306e50a15acac1786538b4"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "03bb4ed733306e50a15acac1786538b4"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "a5d842cf76d1112fa025602764872564"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "540cc51a6ff8cd5c3857baad709d9747"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "540cc51a6ff8cd5c3857baad709d9747"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "540cc51a6ff8cd5c3857baad709d9747"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "540cc51a6ff8cd5c3857baad709d9747"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "85f0f80c418db2d221f73d1110539166"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "85f0f80c418db2d221f73d1110539166"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "71e7c1149e141c99f72aa164b51a25f0"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "71e7c1149e141c99f72aa164b51a25f0"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "71e7c1149e141c99f72aa164b51a25f0"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "85f0f80c418db2d221f73d1110539166"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "85f0f80c418db2d221f73d1110539166"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "540cc51a6ff8cd5c3857baad709d9747"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "540cc51a6ff8cd5c3857baad709d9747"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "540cc51a6ff8cd5c3857baad709d9747"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "85f0f80c418db2d221f73d1110539166"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "85f0f80c418db2d221f73d1110539166"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "71e7c1149e141c99f72aa164b51a25f0"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "71e7c1149e141c99f72aa164b51a25f0"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "71e7c1149e141c99f72aa164b51a25f0"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "85f0f80c418db2d221f73d1110539166"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "85f0f80c418db2d221f73d1110539166"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "540cc51a6ff8cd5c3857baad709d9747"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "540cc51a6ff8cd5c3857baad709d9747"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "1f8b22273b4b23fab6b9b10e55433f02"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "LOAD",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ],
+                        [
+                              {
+                                    "type": "EVAL",
+                                    "hash": "d1a4e9741872481d1c2564eaaf6dac93"
+                              }
+                        ]
+                  ],
+                  "total_time": 0.00022482872009277344
+            }
+      }
+]

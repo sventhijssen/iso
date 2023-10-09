@@ -1,0 +1,402 @@
+[
+      {
+            "name": "G18",
+            "nodes": 1561,
+            "edges": 3118,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G24",
+            "nodes": 1561,
+            "edges": 3118,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G45",
+            "nodes": 1649,
+            "edges": 3294,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G54",
+            "nodes": 246,
+            "edges": 488,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G69",
+            "nodes": 1806,
+            "edges": 3608,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G51",
+            "nodes": 344,
+            "edges": 684,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G36",
+            "nodes": 1241,
+            "edges": 2478,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G75",
+            "nodes": 1064,
+            "edges": 2124,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G9",
+            "nodes": 1649,
+            "edges": 3294,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G63",
+            "nodes": 208,
+            "edges": 412,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G12",
+            "nodes": 1625,
+            "edges": 3246,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G6",
+            "nodes": 1649,
+            "edges": 3294,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G66",
+            "nodes": 216,
+            "edges": 428,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G42",
+            "nodes": 1305,
+            "edges": 2606,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G57",
+            "nodes": 242,
+            "edges": 480,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G72",
+            "nodes": 1875,
+            "edges": 3746,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G60",
+            "nodes": 252,
+            "edges": 500,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G21",
+            "nodes": 1465,
+            "edges": 2926,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G3",
+            "nodes": 1649,
+            "edges": 3294,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G33",
+            "nodes": 1369,
+            "edges": 2734,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G39",
+            "nodes": 1369,
+            "edges": 2734,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G15",
+            "nodes": 1529,
+            "edges": 3054,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G27",
+            "nodes": 1497,
+            "edges": 2990,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G30",
+            "nodes": 1609,
+            "edges": 3214,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G48",
+            "nodes": 1625,
+            "edges": 3246,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "G33",
+            "nodes": 1368,
+            "edges": 2535,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G9",
+            "nodes": 1648,
+            "edges": 3095,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G45",
+            "nodes": 1648,
+            "edges": 3095,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G72",
+            "nodes": 1874,
+            "edges": 3643,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G36",
+            "nodes": 1240,
+            "edges": 2279,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G63",
+            "nodes": 207,
+            "edges": 366,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G60",
+            "nodes": 251,
+            "edges": 435,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G75",
+            "nodes": 1063,
+            "edges": 2041,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G30",
+            "nodes": 1608,
+            "edges": 3015,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G27",
+            "nodes": 1496,
+            "edges": 2791,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G18",
+            "nodes": 1560,
+            "edges": 2919,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G15",
+            "nodes": 1528,
+            "edges": 2855,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G57",
+            "nodes": 241,
+            "edges": 426,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G54",
+            "nodes": 245,
+            "edges": 450,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G24",
+            "nodes": 1560,
+            "edges": 2919,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G12",
+            "nodes": 1624,
+            "edges": 3047,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G48",
+            "nodes": 1624,
+            "edges": 3047,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G3",
+            "nodes": 1648,
+            "edges": 3095,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G51",
+            "nodes": 343,
+            "edges": 597,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G39",
+            "nodes": 1368,
+            "edges": 2535,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G69",
+            "nodes": 1805,
+            "edges": 3514,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G6",
+            "nodes": 1648,
+            "edges": 3095,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G66",
+            "nodes": 215,
+            "edges": 380,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G42",
+            "nodes": 1304,
+            "edges": 2407,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      },
+      {
+            "name": "G21",
+            "nodes": 1464,
+            "edges": 2727,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": false
+      }
+]

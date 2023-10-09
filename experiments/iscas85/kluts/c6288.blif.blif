@@ -1,0 +1,2628 @@
+# Benchmark "c6288.blif" written by ABC on Tue Jul 25 14:38:03 2023
+.model c6288.blif
+.inputs G1gat G18gat G35gat G52gat G69gat G86gat G103gat G120gat G137gat \
+ G154gat G171gat G188gat G205gat G222gat G239gat G256gat G273gat G290gat \
+ G307gat G324gat G341gat G358gat G375gat G392gat G409gat G426gat G443gat \
+ G460gat G477gat G494gat G511gat G528gat
+.outputs G545gat G1581gat G1901gat G2223gat G2548gat G2877gat G3211gat \
+ G3552gat G3895gat G4241gat G4591gat G4946gat G5308gat G5672gat G5971gat \
+ G6123gat G6150gat G6160gat G6170gat G6180gat G6190gat G6200gat G6210gat \
+ G6220gat G6230gat G6240gat G6250gat G6260gat G6270gat G6280gat G6287gat \
+ G6288gat
+.names G1gat G273gat G545gat
+11 1
+.names G1gat G290gat G18gat G273gat G1581gat
+-011 1
+0-11 1
+11-0 1
+110- 1
+.names G1gat G307gat new_n69_ new_n70_ G1901gat
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G1gat G18gat G273gat G290gat new_n69_
+1111 1
+.names G18gat G290gat G35gat G273gat new_n70_
+-011 1
+0-11 1
+11-0 1
+110- 1
+.names G1gat G324gat new_n72_ new_n75_ G2223gat
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G18gat G307gat new_n73_ new_n74_ new_n72_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G18gat G35gat G273gat G290gat new_n73_
+1111 1
+.names G35gat G290gat G52gat G273gat new_n74_
+-011 1
+0-11 1
+11-0 1
+110- 1
+.names new_n69_ new_n70_ G1gat G307gat new_n75_
+-111 1
+1-11 1
+11-- 1
+.names G1gat G341gat new_n77_ new_n82_ G2548gat
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G18gat G324gat new_n78_ new_n81_ new_n77_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G35gat G307gat new_n79_ new_n80_ new_n78_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G35gat G52gat G273gat G290gat new_n79_
+1111 1
+.names G52gat G290gat G69gat G273gat new_n80_
+-011 1
+0-11 1
+11-0 1
+110- 1
+.names new_n73_ new_n74_ G18gat G307gat new_n81_
+-111 1
+1-11 1
+11-- 1
+.names new_n72_ new_n75_ G1gat G324gat new_n82_
+-111 1
+1-11 1
+11-- 1
+.names G1gat G358gat new_n84_ new_n91_ G2877gat
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G18gat G341gat new_n85_ new_n90_ new_n84_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G35gat G324gat new_n86_ new_n89_ new_n85_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G52gat G307gat new_n87_ new_n88_ new_n86_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G52gat G69gat G273gat G290gat new_n87_
+1111 1
+.names G69gat G290gat G86gat G273gat new_n88_
+-011 1
+0-11 1
+11-0 1
+110- 1
+.names new_n79_ new_n80_ G35gat G307gat new_n89_
+-111 1
+1-11 1
+11-- 1
+.names new_n78_ new_n81_ G18gat G324gat new_n90_
+-111 1
+1-11 1
+11-- 1
+.names new_n77_ new_n82_ G1gat G341gat new_n91_
+-111 1
+1-11 1
+11-- 1
+.names G1gat G375gat new_n93_ new_n102_ G3211gat
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G18gat G358gat new_n94_ new_n101_ new_n93_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G35gat G341gat new_n95_ new_n100_ new_n94_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G52gat G324gat new_n96_ new_n99_ new_n95_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G69gat G307gat new_n97_ new_n98_ new_n96_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G69gat G86gat G273gat G290gat new_n97_
+1111 1
+.names G86gat G290gat G103gat G273gat new_n98_
+-011 1
+0-11 1
+11-0 1
+110- 1
+.names new_n87_ new_n88_ G52gat G307gat new_n99_
+-111 1
+1-11 1
+11-- 1
+.names new_n86_ new_n89_ G35gat G324gat new_n100_
+-111 1
+1-11 1
+11-- 1
+.names new_n85_ new_n90_ G18gat G341gat new_n101_
+-111 1
+1-11 1
+11-- 1
+.names new_n84_ new_n91_ G1gat G358gat new_n102_
+-111 1
+1-11 1
+11-- 1
+.names G1gat G392gat new_n104_ new_n115_ G3552gat
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G18gat G375gat new_n105_ new_n114_ new_n104_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G35gat G358gat new_n106_ new_n113_ new_n105_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G52gat G341gat new_n107_ new_n112_ new_n106_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G69gat G324gat new_n108_ new_n111_ new_n107_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G86gat G307gat new_n109_ new_n110_ new_n108_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G86gat G103gat G273gat G290gat new_n109_
+1111 1
+.names G103gat G290gat G120gat G273gat new_n110_
+-011 1
+0-11 1
+11-0 1
+110- 1
+.names new_n97_ new_n98_ G69gat G307gat new_n111_
+-111 1
+1-11 1
+11-- 1
+.names new_n96_ new_n99_ G52gat G324gat new_n112_
+-111 1
+1-11 1
+11-- 1
+.names new_n95_ new_n100_ G35gat G341gat new_n113_
+-111 1
+1-11 1
+11-- 1
+.names new_n94_ new_n101_ G18gat G358gat new_n114_
+-111 1
+1-11 1
+11-- 1
+.names new_n93_ new_n102_ G1gat G375gat new_n115_
+-111 1
+1-11 1
+11-- 1
+.names G1gat G409gat new_n117_ new_n130_ G3895gat
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G18gat G392gat new_n118_ new_n129_ new_n117_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G35gat G375gat new_n119_ new_n128_ new_n118_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G52gat G358gat new_n120_ new_n127_ new_n119_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G69gat G341gat new_n121_ new_n126_ new_n120_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G86gat G324gat new_n122_ new_n125_ new_n121_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G103gat G307gat new_n123_ new_n124_ new_n122_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G103gat G120gat G273gat G290gat new_n123_
+1111 1
+.names G120gat G290gat G137gat G273gat new_n124_
+-011 1
+0-11 1
+11-0 1
+110- 1
+.names new_n109_ new_n110_ G86gat G307gat new_n125_
+-111 1
+1-11 1
+11-- 1
+.names new_n108_ new_n111_ G69gat G324gat new_n126_
+-111 1
+1-11 1
+11-- 1
+.names new_n107_ new_n112_ G52gat G341gat new_n127_
+-111 1
+1-11 1
+11-- 1
+.names new_n106_ new_n113_ G35gat G358gat new_n128_
+-111 1
+1-11 1
+11-- 1
+.names new_n105_ new_n114_ G18gat G375gat new_n129_
+-111 1
+1-11 1
+11-- 1
+.names new_n104_ new_n115_ G1gat G392gat new_n130_
+-111 1
+1-11 1
+11-- 1
+.names G1gat G426gat new_n132_ new_n147_ G4241gat
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G18gat G409gat new_n133_ new_n146_ new_n132_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G35gat G392gat new_n134_ new_n145_ new_n133_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G52gat G375gat new_n135_ new_n144_ new_n134_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G69gat G358gat new_n136_ new_n143_ new_n135_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G86gat G341gat new_n137_ new_n142_ new_n136_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G103gat G324gat new_n138_ new_n141_ new_n137_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G120gat G307gat new_n139_ new_n140_ new_n138_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G120gat G137gat G273gat G290gat new_n139_
+1111 1
+.names G137gat G290gat G154gat G273gat new_n140_
+-011 1
+0-11 1
+11-0 1
+110- 1
+.names new_n123_ new_n124_ G103gat G307gat new_n141_
+-111 1
+1-11 1
+11-- 1
+.names new_n122_ new_n125_ G86gat G324gat new_n142_
+-111 1
+1-11 1
+11-- 1
+.names new_n121_ new_n126_ G69gat G341gat new_n143_
+-111 1
+1-11 1
+11-- 1
+.names new_n120_ new_n127_ G52gat G358gat new_n144_
+-111 1
+1-11 1
+11-- 1
+.names new_n119_ new_n128_ G35gat G375gat new_n145_
+-111 1
+1-11 1
+11-- 1
+.names new_n118_ new_n129_ G18gat G392gat new_n146_
+-111 1
+1-11 1
+11-- 1
+.names new_n117_ new_n130_ G1gat G409gat new_n147_
+-111 1
+1-11 1
+11-- 1
+.names G1gat G443gat new_n149_ new_n166_ G4591gat
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G18gat G426gat new_n150_ new_n165_ new_n149_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G35gat G409gat new_n151_ new_n164_ new_n150_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G52gat G392gat new_n152_ new_n163_ new_n151_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G69gat G375gat new_n153_ new_n162_ new_n152_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G86gat G358gat new_n154_ new_n161_ new_n153_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G103gat G341gat new_n155_ new_n160_ new_n154_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G120gat G324gat new_n156_ new_n159_ new_n155_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G137gat G307gat new_n157_ new_n158_ new_n156_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G137gat G154gat G273gat G290gat new_n157_
+1111 1
+.names G154gat G290gat G171gat G273gat new_n158_
+-011 1
+0-11 1
+11-0 1
+110- 1
+.names new_n139_ new_n140_ G120gat G307gat new_n159_
+-111 1
+1-11 1
+11-- 1
+.names new_n138_ new_n141_ G103gat G324gat new_n160_
+-111 1
+1-11 1
+11-- 1
+.names new_n137_ new_n142_ G86gat G341gat new_n161_
+-111 1
+1-11 1
+11-- 1
+.names new_n136_ new_n143_ G69gat G358gat new_n162_
+-111 1
+1-11 1
+11-- 1
+.names new_n135_ new_n144_ G52gat G375gat new_n163_
+-111 1
+1-11 1
+11-- 1
+.names new_n134_ new_n145_ G35gat G392gat new_n164_
+-111 1
+1-11 1
+11-- 1
+.names new_n133_ new_n146_ G18gat G409gat new_n165_
+-111 1
+1-11 1
+11-- 1
+.names new_n132_ new_n147_ G1gat G426gat new_n166_
+-111 1
+1-11 1
+11-- 1
+.names G1gat G460gat new_n168_ new_n187_ G4946gat
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G18gat G443gat new_n169_ new_n186_ new_n168_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G35gat G426gat new_n170_ new_n185_ new_n169_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G52gat G409gat new_n171_ new_n184_ new_n170_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G69gat G392gat new_n172_ new_n183_ new_n171_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G86gat G375gat new_n173_ new_n182_ new_n172_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G103gat G358gat new_n174_ new_n181_ new_n173_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G120gat G341gat new_n175_ new_n180_ new_n174_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G137gat G324gat new_n176_ new_n179_ new_n175_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G154gat G307gat new_n177_ new_n178_ new_n176_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G154gat G171gat G273gat G290gat new_n177_
+1111 1
+.names G171gat G290gat G188gat G273gat new_n178_
+-011 1
+0-11 1
+11-0 1
+110- 1
+.names new_n157_ new_n158_ G137gat G307gat new_n179_
+-111 1
+1-11 1
+11-- 1
+.names new_n156_ new_n159_ G120gat G324gat new_n180_
+-111 1
+1-11 1
+11-- 1
+.names new_n155_ new_n160_ G103gat G341gat new_n181_
+-111 1
+1-11 1
+11-- 1
+.names new_n154_ new_n161_ G86gat G358gat new_n182_
+-111 1
+1-11 1
+11-- 1
+.names new_n153_ new_n162_ G69gat G375gat new_n183_
+-111 1
+1-11 1
+11-- 1
+.names new_n152_ new_n163_ G52gat G392gat new_n184_
+-111 1
+1-11 1
+11-- 1
+.names new_n151_ new_n164_ G35gat G409gat new_n185_
+-111 1
+1-11 1
+11-- 1
+.names new_n150_ new_n165_ G18gat G426gat new_n186_
+-111 1
+1-11 1
+11-- 1
+.names new_n149_ new_n166_ G1gat G443gat new_n187_
+-111 1
+1-11 1
+11-- 1
+.names G1gat G477gat new_n189_ new_n210_ G5308gat
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G18gat G460gat new_n190_ new_n209_ new_n189_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G35gat G443gat new_n191_ new_n208_ new_n190_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G52gat G426gat new_n192_ new_n207_ new_n191_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G69gat G409gat new_n193_ new_n206_ new_n192_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G86gat G392gat new_n194_ new_n205_ new_n193_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G103gat G375gat new_n195_ new_n204_ new_n194_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G120gat G358gat new_n196_ new_n203_ new_n195_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G137gat G341gat new_n197_ new_n202_ new_n196_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G154gat G324gat new_n198_ new_n201_ new_n197_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G171gat G307gat new_n199_ new_n200_ new_n198_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G171gat G188gat G273gat G290gat new_n199_
+1111 1
+.names G188gat G290gat G205gat G273gat new_n200_
+-011 1
+0-11 1
+11-0 1
+110- 1
+.names new_n177_ new_n178_ G154gat G307gat new_n201_
+-111 1
+1-11 1
+11-- 1
+.names new_n176_ new_n179_ G137gat G324gat new_n202_
+-111 1
+1-11 1
+11-- 1
+.names new_n175_ new_n180_ G120gat G341gat new_n203_
+-111 1
+1-11 1
+11-- 1
+.names new_n174_ new_n181_ G103gat G358gat new_n204_
+-111 1
+1-11 1
+11-- 1
+.names new_n173_ new_n182_ G86gat G375gat new_n205_
+-111 1
+1-11 1
+11-- 1
+.names new_n172_ new_n183_ G69gat G392gat new_n206_
+-111 1
+1-11 1
+11-- 1
+.names new_n171_ new_n184_ G52gat G409gat new_n207_
+-111 1
+1-11 1
+11-- 1
+.names new_n170_ new_n185_ G35gat G426gat new_n208_
+-111 1
+1-11 1
+11-- 1
+.names new_n169_ new_n186_ G18gat G443gat new_n209_
+-111 1
+1-11 1
+11-- 1
+.names new_n168_ new_n187_ G1gat G460gat new_n210_
+-111 1
+1-11 1
+11-- 1
+.names G1gat G494gat new_n212_ new_n235_ G5672gat
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G18gat G477gat new_n213_ new_n234_ new_n212_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G35gat G460gat new_n214_ new_n233_ new_n213_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G52gat G443gat new_n215_ new_n232_ new_n214_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G69gat G426gat new_n216_ new_n231_ new_n215_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G86gat G409gat new_n217_ new_n230_ new_n216_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G103gat G392gat new_n218_ new_n229_ new_n217_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G120gat G375gat new_n219_ new_n228_ new_n218_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G137gat G358gat new_n220_ new_n227_ new_n219_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G154gat G341gat new_n221_ new_n226_ new_n220_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G171gat G324gat new_n222_ new_n225_ new_n221_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G188gat G307gat new_n223_ new_n224_ new_n222_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G188gat G205gat G273gat G290gat new_n223_
+1111 1
+.names G205gat G290gat G222gat G273gat new_n224_
+-011 1
+0-11 1
+11-0 1
+110- 1
+.names new_n199_ new_n200_ G171gat G307gat new_n225_
+-111 1
+1-11 1
+11-- 1
+.names new_n198_ new_n201_ G154gat G324gat new_n226_
+-111 1
+1-11 1
+11-- 1
+.names new_n197_ new_n202_ G137gat G341gat new_n227_
+-111 1
+1-11 1
+11-- 1
+.names new_n196_ new_n203_ G120gat G358gat new_n228_
+-111 1
+1-11 1
+11-- 1
+.names new_n195_ new_n204_ G103gat G375gat new_n229_
+-111 1
+1-11 1
+11-- 1
+.names new_n194_ new_n205_ G86gat G392gat new_n230_
+-111 1
+1-11 1
+11-- 1
+.names new_n193_ new_n206_ G69gat G409gat new_n231_
+-111 1
+1-11 1
+11-- 1
+.names new_n192_ new_n207_ G52gat G426gat new_n232_
+-111 1
+1-11 1
+11-- 1
+.names new_n191_ new_n208_ G35gat G443gat new_n233_
+-111 1
+1-11 1
+11-- 1
+.names new_n190_ new_n209_ G18gat G460gat new_n234_
+-111 1
+1-11 1
+11-- 1
+.names new_n189_ new_n210_ G1gat G477gat new_n235_
+-111 1
+1-11 1
+11-- 1
+.names G1gat G511gat new_n237_ new_n262_ G5971gat
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G18gat G494gat new_n238_ new_n261_ new_n237_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G35gat G477gat new_n239_ new_n260_ new_n238_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G52gat G460gat new_n240_ new_n259_ new_n239_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G69gat G443gat new_n241_ new_n258_ new_n240_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G86gat G426gat new_n242_ new_n257_ new_n241_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G103gat G409gat new_n243_ new_n256_ new_n242_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G120gat G392gat new_n244_ new_n255_ new_n243_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G137gat G375gat new_n245_ new_n254_ new_n244_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G154gat G358gat new_n246_ new_n253_ new_n245_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G171gat G341gat new_n247_ new_n252_ new_n246_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G188gat G324gat new_n248_ new_n251_ new_n247_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G205gat G307gat new_n249_ new_n250_ new_n248_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G205gat G222gat G273gat G290gat new_n249_
+1111 1
+.names G222gat G290gat G239gat G273gat new_n250_
+-011 1
+0-11 1
+11-0 1
+110- 1
+.names new_n223_ new_n224_ G188gat G307gat new_n251_
+-111 1
+1-11 1
+11-- 1
+.names new_n222_ new_n225_ G171gat G324gat new_n252_
+-111 1
+1-11 1
+11-- 1
+.names new_n221_ new_n226_ G154gat G341gat new_n253_
+-111 1
+1-11 1
+11-- 1
+.names new_n220_ new_n227_ G137gat G358gat new_n254_
+-111 1
+1-11 1
+11-- 1
+.names new_n219_ new_n228_ G120gat G375gat new_n255_
+-111 1
+1-11 1
+11-- 1
+.names new_n218_ new_n229_ G103gat G392gat new_n256_
+-111 1
+1-11 1
+11-- 1
+.names new_n217_ new_n230_ G86gat G409gat new_n257_
+-111 1
+1-11 1
+11-- 1
+.names new_n216_ new_n231_ G69gat G426gat new_n258_
+-111 1
+1-11 1
+11-- 1
+.names new_n215_ new_n232_ G52gat G443gat new_n259_
+-111 1
+1-11 1
+11-- 1
+.names new_n214_ new_n233_ G35gat G460gat new_n260_
+-111 1
+1-11 1
+11-- 1
+.names new_n213_ new_n234_ G18gat G477gat new_n261_
+-111 1
+1-11 1
+11-- 1
+.names new_n212_ new_n235_ G1gat G494gat new_n262_
+-111 1
+1-11 1
+11-- 1
+.names G1gat G528gat new_n264_ new_n291_ G6123gat
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G18gat G511gat new_n265_ new_n290_ new_n264_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G35gat G494gat new_n266_ new_n289_ new_n265_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G52gat G477gat new_n267_ new_n288_ new_n266_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G69gat G460gat new_n268_ new_n287_ new_n267_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G86gat G443gat new_n269_ new_n286_ new_n268_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G103gat G426gat new_n270_ new_n285_ new_n269_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G120gat G409gat new_n271_ new_n284_ new_n270_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G137gat G392gat new_n272_ new_n283_ new_n271_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G154gat G375gat new_n273_ new_n282_ new_n272_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G171gat G358gat new_n274_ new_n281_ new_n273_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G188gat G341gat new_n275_ new_n280_ new_n274_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G205gat G324gat new_n276_ new_n279_ new_n275_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G222gat G307gat new_n277_ new_n278_ new_n276_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G222gat G239gat G273gat G290gat new_n277_
+1111 1
+.names G239gat G290gat G256gat G273gat new_n278_
+-011 1
+0-11 1
+11-0 1
+110- 1
+.names new_n249_ new_n250_ G205gat G307gat new_n279_
+-111 1
+1-11 1
+11-- 1
+.names new_n248_ new_n251_ G188gat G324gat new_n280_
+-111 1
+1-11 1
+11-- 1
+.names new_n247_ new_n252_ G171gat G341gat new_n281_
+-111 1
+1-11 1
+11-- 1
+.names new_n246_ new_n253_ G154gat G358gat new_n282_
+-111 1
+1-11 1
+11-- 1
+.names new_n245_ new_n254_ G137gat G375gat new_n283_
+-111 1
+1-11 1
+11-- 1
+.names new_n244_ new_n255_ G120gat G392gat new_n284_
+-111 1
+1-11 1
+11-- 1
+.names new_n243_ new_n256_ G103gat G409gat new_n285_
+-111 1
+1-11 1
+11-- 1
+.names new_n242_ new_n257_ G86gat G426gat new_n286_
+-111 1
+1-11 1
+11-- 1
+.names new_n241_ new_n258_ G69gat G443gat new_n287_
+-111 1
+1-11 1
+11-- 1
+.names new_n240_ new_n259_ G52gat G460gat new_n288_
+-111 1
+1-11 1
+11-- 1
+.names new_n239_ new_n260_ G35gat G477gat new_n289_
+-111 1
+1-11 1
+11-- 1
+.names new_n238_ new_n261_ G18gat G494gat new_n290_
+-111 1
+1-11 1
+11-- 1
+.names new_n237_ new_n262_ G1gat G511gat new_n291_
+-111 1
+1-11 1
+11-- 1
+.names new_n293_ new_n322_ G6150gat
+01 1
+10 1
+.names G18gat G528gat new_n294_ new_n321_ new_n293_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G35gat G511gat new_n295_ new_n320_ new_n294_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G52gat G494gat new_n296_ new_n319_ new_n295_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G69gat G477gat new_n297_ new_n318_ new_n296_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G86gat G460gat new_n298_ new_n317_ new_n297_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G103gat G443gat new_n299_ new_n316_ new_n298_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G120gat G426gat new_n300_ new_n315_ new_n299_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G137gat G409gat new_n301_ new_n314_ new_n300_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G154gat G392gat new_n302_ new_n313_ new_n301_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G171gat G375gat new_n303_ new_n312_ new_n302_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G188gat G358gat new_n304_ new_n311_ new_n303_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G205gat G341gat new_n305_ new_n310_ new_n304_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G222gat G324gat new_n306_ new_n309_ new_n305_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names new_n307_ new_n308_ new_n306_
+00 1
+11 1
+.names G273gat G239gat G256gat G290gat new_n307_
+-011 0
+0-11 0
+.names G239gat G307gat new_n308_
+11 1
+.names new_n277_ new_n278_ G222gat G307gat new_n309_
+-111 1
+1-11 1
+11-- 1
+.names new_n276_ new_n279_ G205gat G324gat new_n310_
+-111 1
+1-11 1
+11-- 1
+.names new_n275_ new_n280_ G188gat G341gat new_n311_
+-111 1
+1-11 1
+11-- 1
+.names new_n274_ new_n281_ G171gat G358gat new_n312_
+-111 1
+1-11 1
+11-- 1
+.names new_n273_ new_n282_ G154gat G375gat new_n313_
+-111 1
+1-11 1
+11-- 1
+.names new_n272_ new_n283_ G137gat G392gat new_n314_
+-111 1
+1-11 1
+11-- 1
+.names new_n271_ new_n284_ G120gat G409gat new_n315_
+-111 1
+1-11 1
+11-- 1
+.names new_n270_ new_n285_ G103gat G426gat new_n316_
+-111 1
+1-11 1
+11-- 1
+.names new_n269_ new_n286_ G86gat G443gat new_n317_
+-111 1
+1-11 1
+11-- 1
+.names new_n268_ new_n287_ G69gat G460gat new_n318_
+-111 1
+1-11 1
+11-- 1
+.names new_n267_ new_n288_ G52gat G477gat new_n319_
+-111 1
+1-11 1
+11-- 1
+.names new_n266_ new_n289_ G35gat G494gat new_n320_
+-111 1
+1-11 1
+11-- 1
+.names new_n265_ new_n290_ G18gat G511gat new_n321_
+-111 1
+1-11 1
+11-- 1
+.names new_n264_ new_n291_ G1gat G528gat new_n322_
+-111 1
+1-11 1
+11-- 1
+.names new_n293_ new_n322_ new_n324_ new_n354_ G6160gat
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G35gat G528gat new_n325_ new_n353_ new_n324_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G52gat G511gat new_n326_ new_n352_ new_n325_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G69gat G494gat new_n327_ new_n351_ new_n326_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G86gat G477gat new_n328_ new_n350_ new_n327_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G103gat G460gat new_n329_ new_n349_ new_n328_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G120gat G443gat new_n330_ new_n348_ new_n329_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G137gat G426gat new_n331_ new_n347_ new_n330_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G154gat G409gat new_n332_ new_n346_ new_n331_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G171gat G392gat new_n333_ new_n345_ new_n332_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G188gat G375gat new_n334_ new_n344_ new_n333_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G205gat G358gat new_n335_ new_n343_ new_n334_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G222gat G341gat new_n336_ new_n342_ new_n335_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names new_n337_ new_n341_ new_n336_
+00 1
+11 1
+.names new_n338_ new_n339_ new_n308_ new_n340_ new_n337_
+-000 1
+-111 1
+0-00 1
+00-0 1
+1-11 1
+11-1 1
+.names G239gat G256gat G273gat G290gat new_n338_
+1111 1
+.names G256gat G290gat new_n339_
+11 1
+.names G256gat G307gat new_n340_
+11 1
+.names G239gat G324gat new_n341_
+11 1
+.names new_n306_ new_n309_ G222gat G324gat new_n342_
+-111 1
+1-11 1
+11-- 1
+.names new_n305_ new_n310_ G205gat G341gat new_n343_
+-111 1
+1-11 1
+11-- 1
+.names new_n304_ new_n311_ G188gat G358gat new_n344_
+-111 1
+1-11 1
+11-- 1
+.names new_n303_ new_n312_ G171gat G375gat new_n345_
+-111 1
+1-11 1
+11-- 1
+.names new_n302_ new_n313_ G154gat G392gat new_n346_
+-111 1
+1-11 1
+11-- 1
+.names new_n301_ new_n314_ G137gat G409gat new_n347_
+-111 1
+1-11 1
+11-- 1
+.names new_n300_ new_n315_ G120gat G426gat new_n348_
+-111 1
+1-11 1
+11-- 1
+.names new_n299_ new_n316_ G103gat G443gat new_n349_
+-111 1
+1-11 1
+11-- 1
+.names new_n298_ new_n317_ G86gat G460gat new_n350_
+-111 1
+1-11 1
+11-- 1
+.names new_n297_ new_n318_ G69gat G477gat new_n351_
+-111 1
+1-11 1
+11-- 1
+.names new_n296_ new_n319_ G52gat G494gat new_n352_
+-111 1
+1-11 1
+11-- 1
+.names new_n295_ new_n320_ G35gat G511gat new_n353_
+-111 1
+1-11 1
+11-- 1
+.names new_n294_ new_n321_ G18gat G528gat new_n354_
+-111 1
+1-11 1
+11-- 1
+.names new_n356_ new_n385_ G6170gat
+00 1
+11 1
+.names new_n357_ new_n384_ new_n356_
+00 1
+11 1
+.names G52gat G528gat new_n358_ new_n383_ new_n357_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G69gat G511gat new_n359_ new_n382_ new_n358_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G86gat G494gat new_n360_ new_n381_ new_n359_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G103gat G477gat new_n361_ new_n380_ new_n360_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G120gat G460gat new_n362_ new_n379_ new_n361_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G137gat G443gat new_n363_ new_n378_ new_n362_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G154gat G426gat new_n364_ new_n377_ new_n363_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G171gat G409gat new_n365_ new_n376_ new_n364_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G188gat G392gat new_n366_ new_n375_ new_n365_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G205gat G375gat new_n367_ new_n374_ new_n366_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G222gat G358gat new_n368_ new_n373_ new_n367_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names new_n369_ new_n372_ new_n368_
+00 1
+11 1
+.names new_n370_ new_n340_ new_n341_ new_n371_ new_n369_
+-000 1
+-111 1
+0-00 1
+00-0 1
+1-11 1
+11-1 1
+.names new_n338_ new_n308_ G256gat G290gat new_n370_
+-111 1
+1-11 1
+11-- 1
+.names G256gat G324gat new_n371_
+11 1
+.names G239gat G341gat new_n372_
+11 1
+.names new_n336_ new_n342_ G222gat G341gat new_n373_
+-111 1
+1-11 1
+11-- 1
+.names new_n335_ new_n343_ G205gat G358gat new_n374_
+-111 1
+1-11 1
+11-- 1
+.names new_n334_ new_n344_ G188gat G375gat new_n375_
+-111 1
+1-11 1
+11-- 1
+.names new_n333_ new_n345_ G171gat G392gat new_n376_
+-111 1
+1-11 1
+11-- 1
+.names new_n332_ new_n346_ G154gat G409gat new_n377_
+-111 1
+1-11 1
+11-- 1
+.names new_n331_ new_n347_ G137gat G426gat new_n378_
+-111 1
+1-11 1
+11-- 1
+.names new_n330_ new_n348_ G120gat G443gat new_n379_
+-111 1
+1-11 1
+11-- 1
+.names new_n329_ new_n349_ G103gat G460gat new_n380_
+-111 1
+1-11 1
+11-- 1
+.names new_n328_ new_n350_ G86gat G477gat new_n381_
+-111 1
+1-11 1
+11-- 1
+.names new_n327_ new_n351_ G69gat G494gat new_n382_
+-111 1
+1-11 1
+11-- 1
+.names new_n326_ new_n352_ G52gat G511gat new_n383_
+-111 1
+1-11 1
+11-- 1
+.names new_n325_ new_n353_ G35gat G528gat new_n384_
+-111 1
+1-11 1
+11-- 1
+.names new_n324_ new_n354_ new_n293_ new_n322_ new_n385_
+-111 1
+1-11 1
+11-- 1
+.names new_n356_ new_n385_ new_n387_ new_n388_ G6180gat
+--10 1
+-101 1
+00-0 1
+1-01 1
+.names new_n357_ new_n384_ new_n387_
+00 1
+.names new_n389_ new_n414_ new_n388_
+00 1
+11 1
+.names G69gat G528gat new_n390_ new_n413_ new_n389_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G86gat G511gat new_n391_ new_n412_ new_n390_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G103gat G494gat new_n392_ new_n411_ new_n391_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G120gat G477gat new_n393_ new_n410_ new_n392_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G137gat G460gat new_n394_ new_n409_ new_n393_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G154gat G443gat new_n395_ new_n408_ new_n394_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G171gat G426gat new_n396_ new_n407_ new_n395_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G188gat G409gat new_n397_ new_n406_ new_n396_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G205gat G392gat new_n398_ new_n405_ new_n397_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G222gat G375gat new_n399_ new_n404_ new_n398_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names new_n400_ new_n403_ new_n399_
+00 1
+11 1
+.names new_n401_ new_n371_ new_n372_ new_n402_ new_n400_
+-000 1
+-111 1
+0-00 1
+00-0 1
+1-11 1
+11-1 1
+.names new_n370_ new_n341_ G256gat G307gat new_n401_
+-111 1
+1-11 1
+11-- 1
+.names G256gat G341gat new_n402_
+11 1
+.names G239gat G358gat new_n403_
+11 1
+.names new_n368_ new_n373_ G222gat G358gat new_n404_
+-111 1
+1-11 1
+11-- 1
+.names new_n367_ new_n374_ G205gat G375gat new_n405_
+-111 1
+1-11 1
+11-- 1
+.names new_n366_ new_n375_ G188gat G392gat new_n406_
+-111 1
+1-11 1
+11-- 1
+.names new_n365_ new_n376_ G171gat G409gat new_n407_
+-111 1
+1-11 1
+11-- 1
+.names new_n364_ new_n377_ G154gat G426gat new_n408_
+-111 1
+1-11 1
+11-- 1
+.names new_n363_ new_n378_ G137gat G443gat new_n409_
+-111 1
+1-11 1
+11-- 1
+.names new_n362_ new_n379_ G120gat G460gat new_n410_
+-111 1
+1-11 1
+11-- 1
+.names new_n361_ new_n380_ G103gat G477gat new_n411_
+-111 1
+1-11 1
+11-- 1
+.names new_n360_ new_n381_ G86gat G494gat new_n412_
+-111 1
+1-11 1
+11-- 1
+.names new_n359_ new_n382_ G69gat G511gat new_n413_
+-111 1
+1-11 1
+11-- 1
+.names new_n358_ new_n383_ G52gat G528gat new_n414_
+-111 1
+1-11 1
+11-- 1
+.names new_n416_ new_n417_ new_n418_ new_n440_ G6190gat
+-101 1
+-110 1
+0000 1
+0011 1
+1-01 1
+1-10 1
+.names new_n356_ new_n385_ new_n387_ new_n388_ new_n416_
+--10 1
+00-0 1
+.names new_n389_ new_n414_ new_n417_
+00 1
+.names G86gat G528gat new_n419_ new_n439_ new_n418_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G103gat G511gat new_n420_ new_n438_ new_n419_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G120gat G494gat new_n421_ new_n437_ new_n420_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G137gat G477gat new_n422_ new_n436_ new_n421_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G154gat G460gat new_n423_ new_n435_ new_n422_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G171gat G443gat new_n424_ new_n434_ new_n423_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G188gat G426gat new_n425_ new_n433_ new_n424_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G205gat G409gat new_n426_ new_n432_ new_n425_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G222gat G392gat new_n427_ new_n431_ new_n426_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G256gat G358gat new_n428_ new_n430_ new_n427_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names new_n429_ new_n403_ G256gat G341gat new_n428_
+-111 1
+1-11 1
+11-- 1
+.names new_n369_ new_n372_ new_n401_ new_n371_ new_n429_
+--00 0
+00-- 0
+.names G239gat G375gat new_n430_
+11 1
+.names new_n399_ new_n404_ G222gat G375gat new_n431_
+-111 1
+1-11 1
+11-- 1
+.names new_n398_ new_n405_ G205gat G392gat new_n432_
+-111 1
+1-11 1
+11-- 1
+.names new_n397_ new_n406_ G188gat G409gat new_n433_
+-111 1
+1-11 1
+11-- 1
+.names new_n396_ new_n407_ G171gat G426gat new_n434_
+-111 1
+1-11 1
+11-- 1
+.names new_n395_ new_n408_ G154gat G443gat new_n435_
+-111 1
+1-11 1
+11-- 1
+.names new_n394_ new_n409_ G137gat G460gat new_n436_
+-111 1
+1-11 1
+11-- 1
+.names new_n393_ new_n410_ G120gat G477gat new_n437_
+-111 1
+1-11 1
+11-- 1
+.names new_n392_ new_n411_ G103gat G494gat new_n438_
+-111 1
+1-11 1
+11-- 1
+.names new_n391_ new_n412_ G86gat G511gat new_n439_
+-111 1
+1-11 1
+11-- 1
+.names new_n390_ new_n413_ G69gat G528gat new_n440_
+-111 1
+1-11 1
+11-- 1
+.names new_n442_ new_n443_ G6200gat
+00 1
+11 1
+.names new_n418_ new_n417_ new_n416_ new_n440_ new_n442_
+-001 1
+1--1 1
+100- 1
+.names new_n444_ new_n463_ new_n443_
+00 1
+11 1
+.names G103gat G528gat new_n445_ new_n462_ new_n444_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G120gat G511gat new_n446_ new_n461_ new_n445_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G137gat G494gat new_n447_ new_n460_ new_n446_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G154gat G477gat new_n448_ new_n459_ new_n447_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G171gat G460gat new_n449_ new_n458_ new_n448_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G188gat G443gat new_n450_ new_n457_ new_n449_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G205gat G426gat new_n451_ new_n456_ new_n450_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G222gat G409gat new_n452_ new_n455_ new_n451_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G239gat G392gat new_n453_ new_n454_ new_n452_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names new_n428_ new_n430_ G256gat G358gat new_n453_
+-111 1
+1-11 1
+11-- 1
+.names G256gat G375gat new_n454_
+11 1
+.names new_n427_ new_n431_ G222gat G392gat new_n455_
+-111 1
+1-11 1
+11-- 1
+.names new_n426_ new_n432_ G205gat G409gat new_n456_
+-111 1
+1-11 1
+11-- 1
+.names new_n425_ new_n433_ G188gat G426gat new_n457_
+-111 1
+1-11 1
+11-- 1
+.names new_n424_ new_n434_ G171gat G443gat new_n458_
+-111 1
+1-11 1
+11-- 1
+.names new_n423_ new_n435_ G154gat G460gat new_n459_
+-111 1
+1-11 1
+11-- 1
+.names new_n422_ new_n436_ G137gat G477gat new_n460_
+-111 1
+1-11 1
+11-- 1
+.names new_n421_ new_n437_ G120gat G494gat new_n461_
+-111 1
+1-11 1
+11-- 1
+.names new_n420_ new_n438_ G103gat G511gat new_n462_
+-111 1
+1-11 1
+11-- 1
+.names new_n419_ new_n439_ G86gat G528gat new_n463_
+-111 1
+1-11 1
+11-- 1
+.names new_n442_ new_n443_ new_n465_ new_n466_ G6210gat
+--10 1
+-101 1
+00-0 1
+1-01 1
+.names new_n444_ new_n463_ new_n465_
+00 1
+.names new_n467_ new_n484_ new_n466_
+00 1
+11 1
+.names G120gat G528gat new_n468_ new_n483_ new_n467_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G137gat G511gat new_n469_ new_n482_ new_n468_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G154gat G494gat new_n470_ new_n481_ new_n469_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G171gat G477gat new_n471_ new_n480_ new_n470_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G188gat G460gat new_n472_ new_n479_ new_n471_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G205gat G443gat new_n473_ new_n478_ new_n472_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G222gat G426gat new_n474_ new_n477_ new_n473_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G239gat G409gat new_n475_ new_n476_ new_n474_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names new_n453_ new_n454_ G239gat G392gat new_n475_
+-111 1
+1-11 1
+11-- 1
+.names G256gat G392gat new_n476_
+11 1
+.names new_n452_ new_n455_ G222gat G409gat new_n477_
+-111 1
+1-11 1
+11-- 1
+.names new_n451_ new_n456_ G205gat G426gat new_n478_
+-111 1
+1-11 1
+11-- 1
+.names new_n450_ new_n457_ G188gat G443gat new_n479_
+-111 1
+1-11 1
+11-- 1
+.names new_n449_ new_n458_ G171gat G460gat new_n480_
+-111 1
+1-11 1
+11-- 1
+.names new_n448_ new_n459_ G154gat G477gat new_n481_
+-111 1
+1-11 1
+11-- 1
+.names new_n447_ new_n460_ G137gat G494gat new_n482_
+-111 1
+1-11 1
+11-- 1
+.names new_n446_ new_n461_ G120gat G511gat new_n483_
+-111 1
+1-11 1
+11-- 1
+.names new_n445_ new_n462_ G103gat G528gat new_n484_
+-111 1
+1-11 1
+11-- 1
+.names new_n486_ new_n487_ new_n488_ new_n503_ G6220gat
+-101 1
+-110 1
+0000 1
+0011 1
+1-01 1
+1-10 1
+.names new_n442_ new_n443_ new_n465_ new_n466_ new_n486_
+--10 1
+00-0 1
+.names new_n467_ new_n484_ new_n487_
+00 1
+.names G137gat G528gat new_n489_ new_n502_ new_n488_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G154gat G511gat new_n490_ new_n501_ new_n489_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G171gat G494gat new_n491_ new_n500_ new_n490_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G188gat G477gat new_n492_ new_n499_ new_n491_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G205gat G460gat new_n493_ new_n498_ new_n492_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G222gat G443gat new_n494_ new_n497_ new_n493_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G256gat G409gat new_n495_ new_n496_ new_n494_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names new_n475_ new_n476_ G239gat G409gat new_n495_
+-111 1
+1-11 1
+11-- 1
+.names G239gat G426gat new_n496_
+11 1
+.names new_n474_ new_n477_ G222gat G426gat new_n497_
+-111 1
+1-11 1
+11-- 1
+.names new_n473_ new_n478_ G205gat G443gat new_n498_
+-111 1
+1-11 1
+11-- 1
+.names new_n472_ new_n479_ G188gat G460gat new_n499_
+-111 1
+1-11 1
+11-- 1
+.names new_n471_ new_n480_ G171gat G477gat new_n500_
+-111 1
+1-11 1
+11-- 1
+.names new_n470_ new_n481_ G154gat G494gat new_n501_
+-111 1
+1-11 1
+11-- 1
+.names new_n469_ new_n482_ G137gat G511gat new_n502_
+-111 1
+1-11 1
+11-- 1
+.names new_n468_ new_n483_ G120gat G528gat new_n503_
+-111 1
+1-11 1
+11-- 1
+.names new_n505_ new_n506_ G6230gat
+00 1
+11 1
+.names new_n488_ new_n487_ new_n486_ new_n503_ new_n505_
+-001 1
+1--1 1
+100- 1
+.names new_n507_ new_n520_ new_n506_
+00 1
+11 1
+.names G154gat G528gat new_n508_ new_n519_ new_n507_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G171gat G511gat new_n509_ new_n518_ new_n508_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G188gat G494gat new_n510_ new_n517_ new_n509_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G205gat G477gat new_n511_ new_n516_ new_n510_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G222gat G460gat new_n512_ new_n515_ new_n511_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G239gat G443gat new_n513_ new_n514_ new_n512_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names new_n495_ new_n496_ G256gat G409gat new_n513_
+-111 1
+1-11 1
+11-- 1
+.names G256gat G426gat new_n514_
+11 1
+.names new_n494_ new_n497_ G222gat G443gat new_n515_
+-111 1
+1-11 1
+11-- 1
+.names new_n493_ new_n498_ G205gat G460gat new_n516_
+-111 1
+1-11 1
+11-- 1
+.names new_n492_ new_n499_ G188gat G477gat new_n517_
+-111 1
+1-11 1
+11-- 1
+.names new_n491_ new_n500_ G171gat G494gat new_n518_
+-111 1
+1-11 1
+11-- 1
+.names new_n490_ new_n501_ G154gat G511gat new_n519_
+-111 1
+1-11 1
+11-- 1
+.names new_n489_ new_n502_ G137gat G528gat new_n520_
+-111 1
+1-11 1
+11-- 1
+.names new_n505_ new_n506_ new_n522_ new_n523_ G6240gat
+--10 1
+-101 1
+00-0 1
+1-01 1
+.names new_n507_ new_n520_ new_n522_
+00 1
+.names new_n524_ new_n535_ new_n523_
+00 1
+11 1
+.names G171gat G528gat new_n525_ new_n534_ new_n524_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G188gat G511gat new_n526_ new_n533_ new_n525_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G205gat G494gat new_n527_ new_n532_ new_n526_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G222gat G477gat new_n528_ new_n531_ new_n527_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G239gat G460gat new_n529_ new_n530_ new_n528_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names new_n513_ new_n514_ G239gat G443gat new_n529_
+-111 1
+1-11 1
+11-- 1
+.names G256gat G443gat new_n530_
+11 1
+.names new_n512_ new_n515_ G222gat G460gat new_n531_
+-111 1
+1-11 1
+11-- 1
+.names new_n511_ new_n516_ G205gat G477gat new_n532_
+-111 1
+1-11 1
+11-- 1
+.names new_n510_ new_n517_ G188gat G494gat new_n533_
+-111 1
+1-11 1
+11-- 1
+.names new_n509_ new_n518_ G171gat G511gat new_n534_
+-111 1
+1-11 1
+11-- 1
+.names new_n508_ new_n519_ G154gat G528gat new_n535_
+-111 1
+1-11 1
+11-- 1
+.names new_n537_ new_n538_ new_n539_ new_n548_ G6250gat
+-101 1
+-110 1
+0000 1
+0011 1
+1-01 1
+1-10 1
+.names new_n505_ new_n506_ new_n522_ new_n523_ new_n537_
+--10 1
+00-0 1
+.names new_n524_ new_n535_ new_n538_
+00 1
+.names G188gat G528gat new_n540_ new_n547_ new_n539_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G205gat G511gat new_n541_ new_n546_ new_n540_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G222gat G494gat new_n542_ new_n545_ new_n541_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G256gat G460gat new_n543_ new_n544_ new_n542_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names new_n529_ new_n530_ G239gat G460gat new_n543_
+-111 1
+1-11 1
+11-- 1
+.names G239gat G477gat new_n544_
+11 1
+.names new_n528_ new_n531_ G222gat G477gat new_n545_
+-111 1
+1-11 1
+11-- 1
+.names new_n527_ new_n532_ G205gat G494gat new_n546_
+-111 1
+1-11 1
+11-- 1
+.names new_n526_ new_n533_ G188gat G511gat new_n547_
+-111 1
+1-11 1
+11-- 1
+.names new_n525_ new_n534_ G171gat G528gat new_n548_
+-111 1
+1-11 1
+11-- 1
+.names new_n550_ new_n551_ G6260gat
+00 1
+11 1
+.names new_n539_ new_n538_ new_n537_ new_n548_ new_n550_
+-001 1
+1--1 1
+100- 1
+.names new_n552_ new_n559_ new_n551_
+00 1
+11 1
+.names G205gat G528gat new_n553_ new_n558_ new_n552_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G222gat G511gat new_n554_ new_n557_ new_n553_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G239gat G494gat new_n555_ new_n556_ new_n554_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names new_n543_ new_n544_ G256gat G460gat new_n555_
+-111 1
+1-11 1
+11-- 1
+.names G256gat G477gat new_n556_
+11 1
+.names new_n542_ new_n545_ G222gat G494gat new_n557_
+-111 1
+1-11 1
+11-- 1
+.names new_n541_ new_n546_ G205gat G511gat new_n558_
+-111 1
+1-11 1
+11-- 1
+.names new_n540_ new_n547_ G188gat G528gat new_n559_
+-111 1
+1-11 1
+11-- 1
+.names new_n550_ new_n551_ new_n561_ new_n562_ G6270gat
+--10 1
+-101 1
+00-0 1
+1-01 1
+.names new_n552_ new_n559_ new_n561_
+00 1
+.names new_n563_ new_n568_ new_n562_
+00 1
+11 1
+.names G222gat G528gat new_n564_ new_n567_ new_n563_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names G239gat G511gat new_n565_ new_n566_ new_n564_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names new_n555_ new_n556_ G239gat G494gat new_n565_
+-111 1
+1-11 1
+11-- 1
+.names G256gat G494gat new_n566_
+11 1
+.names new_n554_ new_n557_ G222gat G511gat new_n567_
+-111 1
+1-11 1
+11-- 1
+.names new_n553_ new_n558_ G205gat G528gat new_n568_
+-111 1
+1-11 1
+11-- 1
+.names new_n570_ new_n571_ new_n572_ G6280gat
+-10 1
+001 1
+1-0 1
+.names new_n550_ new_n551_ new_n561_ new_n562_ new_n570_
+--10 1
+00-0 1
+.names new_n563_ new_n568_ new_n571_
+00 1
+.names new_n573_ new_n576_ new_n572_
+00 1
+11 1
+.names G239gat G528gat new_n574_ new_n575_ new_n573_
+-001 1
+-010 1
+0-01 1
+0-10 1
+1100 1
+1111 1
+.names new_n565_ new_n566_ G239gat G511gat new_n574_
+-111 1
+1-11 1
+11-- 1
+.names G256gat G511gat new_n575_
+11 1
+.names new_n564_ new_n567_ G222gat G528gat new_n576_
+-111 1
+1-11 1
+11-- 1
+.names new_n580_ new_n579_ new_n578_ new_n581_ G6287gat
+-001 1
+1--1 1
+100- 1
+.names new_n571_ new_n570_ new_n572_ new_n578_
+-10 1
+1-0 1
+.names new_n573_ new_n576_ new_n579_
+00 1
+.names new_n574_ new_n575_ G239gat G528gat new_n580_
+-111 1
+1-11 1
+11-- 1
+.names G256gat G528gat new_n581_
+11 1
+.names new_n578_ new_n579_ new_n580_ new_n581_ G6288gat
+-101 1
+-110 1
+0000 1
+0011 1
+1-01 1
+1-10 1
+.end
